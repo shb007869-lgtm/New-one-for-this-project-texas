@@ -1,7 +1,7 @@
 
 
 
-My first Git practice
+My first Git practice-2nd 
 
 [200~git add .
 git commit -m "message"
